@@ -6,6 +6,7 @@
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="ExampleDialog" src="behavior_1/ExampleDialog/ExampleDialog.dlg" />
+        <Dialog name="test" src="test/test.dlg" />
     </Dialogs>
     <Resources>
         <File name="golf" src="behavior_1/golf.ogg" />
@@ -17,12 +18,15 @@
         <File name="index" src="html/index.html" />
         <File name="script" src="html/script.js" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
-        <File name="_metadata" src="_metadata" />
         <File name="database1" src="database1.vrd" />
+        <File name="fond_ecran" src="html/image/fond_ecran.jpg" />
+        <File name="fond_ecran.jpg" src="html/image/fond_ecran.jpg.bak" />
+        <File name="_metadata" src="_metadata" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
         <Topic name="ExampleDialog_frf" src="behavior_1/ExampleDialog/ExampleDialog_frf.top" topicName="ExampleDialog" language="fr_FR" />
+        <Topic name="test_frf" src="test/test_frf.top" topicName="test" language="fr_FR" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="en_US">

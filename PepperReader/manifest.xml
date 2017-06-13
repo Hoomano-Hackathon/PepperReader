@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="pepperreader-fc116d">
+<package uuid="pepperreader-96ca97" version="0.0.0">
  <names>
   <name lang="en_US">PepperReader</name>
-  <name lang="fr_FR">PepperReader</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
